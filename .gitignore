@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+bird_or_not/
+fastbook-master/
+
+*.csv
+*.jpg
+*.png
